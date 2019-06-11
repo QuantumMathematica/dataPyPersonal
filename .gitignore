@@ -1,3 +1,10 @@
+# Scripts folder
+/scripts/twitterCredentials.py
+/scripts/dropboxCredentials.py
+/scripts/images/
+/scripts/cache/
+/data/extracted/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
